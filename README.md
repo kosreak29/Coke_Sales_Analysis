@@ -39,7 +39,7 @@ The objective of this analysis is to understand:
 * Supported profit-driven decision making
 
 6. Pareto Analysis (80–20 Rule)
-*Identified key products driving majority of sales
+* Identified key products driving majority of sales
 
 7. Seasonality Analysis
 
