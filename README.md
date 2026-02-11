@@ -8,19 +8,18 @@ This project analyzes beverage sales data using Microsoft Excel.
 All insights and visualizations are derived directly from the provided dataset.
 
 The objective of this analysis is to understand:
-
-Sales performance
-Pricing strategy
-Profitability
-Regional contribution
-Product portfolio strategy
-Seasonality trends
+* Sales performance
+* Pricing strategy
+* Profitability
+* Regional contribution
+* Product portfolio strategy
+* Seasonality trends
 
 📊 Key Analysis Performed
 
 1. Brand-wise Sales & Units Sold
 * Identified top-selling brands
-*Analyzed revenue concentration
+* Analyzed revenue concentration
 
 2. Price vs Units Sold Analysis
 * Evaluated price sensitivity
@@ -42,9 +41,8 @@ Seasonality trends
 * Identified key products driving majority of sales
 
 7. Seasonality Analysis
-
 * Monthly trend with moving average
-*Identified peak demand periods
+* Identified peak demand periods
 
 🎯 Key Insights
 
