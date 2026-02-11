@@ -9,12 +9,12 @@ All insights and visualizations are derived directly from the provided dataset.
 
 The objective of this analysis is to understand:
 
-=> Sales performance
-=> Pricing strategy
-=> Profitability
-=> Regional contribution
-=> Product portfolio strategy
-=> Seasonality trends
+Sales performance
+Pricing strategy
+Profitability
+Regional contribution
+Product portfolio strategy
+Seasonality trends
 
 📊 Key Analysis Performed
 
