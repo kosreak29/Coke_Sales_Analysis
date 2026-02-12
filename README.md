@@ -68,3 +68,10 @@ The objective of this analysis is to understand:
 * Focus on profitable regions
 * Plan inventory based on seasonality
 * Make data-driven decisions
+
+📂 Project Structure
+├── Coke_Sales_Analysis.xlsx
+└── README.md
+
+✨ Author
+Aman Kosre
