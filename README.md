@@ -69,9 +69,9 @@ The objective of this analysis is to understand:
 * Plan inventory based on seasonality
 * Make data-driven decisions
 
-📂 Project Structure
-├── Coke_Sales_Analysis.xlsx
-└── README.md
+## 📂 Project Structure
+├── Coke_Sales_Analysis.xlsx  
+└── README.md  
 
-✨ Author
+✨ Author  
 Aman Kosre
